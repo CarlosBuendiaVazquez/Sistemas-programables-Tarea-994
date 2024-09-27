@@ -1,5 +1,5 @@
 ---
-title: Moon Theme
+title: prueba
 layout: post
 permalink: /moon/
 theme: moon
