@@ -5,8 +5,8 @@ permalink: /beige/
 theme: beige
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Slide FKJSANFLKAS
+   slide-data: PRUEBA FF
  
      
  - title: Slide 2
