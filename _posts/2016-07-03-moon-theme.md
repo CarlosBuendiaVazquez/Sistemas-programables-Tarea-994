@@ -5,8 +5,8 @@ permalink: /moon/
 theme: moon
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Prueba
+   slide-data: JSBFKJASBFKSA
  
      
  - title: Slide 2
